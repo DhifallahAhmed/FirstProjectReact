@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Mousy",
+      "price": "12",
+      "img": "product3.jpg",
+      "like": 0,
+      "quantity": "10",
+      "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire"
+    },
+    {
+      "name": "Bread",
+      "price": "10",
+      "img": "product2.jpg",
+      "like": 0,
+      "quantity": "5",
+      "description": "ndjad",
+      "id": 3
+    }
+  ]
+}
